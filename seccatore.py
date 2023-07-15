@@ -72,6 +72,6 @@ class MainWindow(QtWidgets.QMainWindow):
 app = QtWidgets.QApplication(sys.argv)
 mainWindow = MainWindow()
 mainWindow.setFixedSize(905,291)
-mainWindow.setWindowTitle("Spammer")
+mainWindow.setWindowTitle("Seccatore")
 mainWindow.show()
 sys.exit(app.exec())
